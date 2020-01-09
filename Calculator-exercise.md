@@ -56,7 +56,7 @@ input text.
 > In the same component as it's being used - in fact, right on the input.
 > </details>
 
-### Step 5
+### Step 4
 Once you've chosen how to bind your inputs to an event, you'll need to create a
 method. The method should accept the triggered event, get the input values from
 your form, add them together, and set part of the state to the new `sum`.
@@ -68,7 +68,7 @@ your form, add them together, and set part of the state to the new `sum`.
 > 
 > Thought: How will you handle inputs that aren't numbers?
 
-### Step 6
+### Step 5
 Once the state of the `sum` has been set, React will re-render the whole
 component. Make sure you have a place in your JSX that displays the result!
 
