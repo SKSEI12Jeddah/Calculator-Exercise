@@ -8,7 +8,7 @@ together when they are typed in. For the bonus, you might decide to get more
 creative.
 
 ### Set Up
-Like usual, use `create-react-app` to make a new project.
+Like usual, use `create react-app` to make a new project.
 
 ### Step 1
 Start by creating a single component file in the `src` directory, and name it
